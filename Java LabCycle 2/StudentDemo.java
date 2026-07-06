@@ -6,6 +6,6 @@ class Student {
 
 public class StudentDemo {
     public static void main(String[] args) {
-        Student s = new Student(); // calls default constructor
+        Student s = new Student();
     }
 }
