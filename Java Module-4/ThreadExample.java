@@ -1,5 +1,3 @@
-// 1. Extending Thread class
-
 class MyThread extends Thread {
     private String threadName;
 
